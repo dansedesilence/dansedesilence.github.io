@@ -3,14 +3,24 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "forty"
 
+[params]
+  custom_css = ["css/custom.css"]
 
 [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
+    title = "Danse de silence"
+    subtitle = ""
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
 
     [[params.navigation.links]]
-      name = "Home"
+      name = "accueil"
       url = "#"
+    [[params.navigation.links]]
+      name = "créations"
+      url = "/produits"
+    [[params.navigation.links]]
+      name = "occupations"
+      url = "/occupations"
+    
+      
