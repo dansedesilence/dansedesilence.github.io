@@ -4,7 +4,7 @@ description: "Présensation de Hagioscope, une installation vidéo-danse-son imm
 slug: "hagioscope"
 image: hagioscope.jpg
 keywords: "hagioscope, installation, vidéos, danse, cunst-link, authentique,"
-date: 2022-19-03T12:00:00+01:00
+date: 2022-03-19T12:00:00+01:00
 draft: false
 ---
 autres liens :  

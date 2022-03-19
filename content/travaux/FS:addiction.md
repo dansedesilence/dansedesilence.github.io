@@ -4,7 +4,7 @@ description: "Présensation du solo Fuck Soma : Addiction chorégraphié par Meh
 slug: "fuck-soma-addiction"
 image:
 keywords: "fuck, soma, addiction, spectacle, performance, carcassonne"
-date: 2022-19-03T12:00:00+01:00
+date: 2022-03-19T12:00:00+01:00
 draft: false
 ---
 

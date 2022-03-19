@@ -5,7 +5,7 @@ slug: "contact"
 image:
 keywords: "instagram, vimeo, facebook, e-mail"
 
-date: 2022-19-03T12:00:00+01:00
+date: 2022-03-19T12:00:00+01:00
 draft: false
 ---
 [<i class="fa-solid icon fa-envelope"></i>](mailto:dansedesilence@gmail.com)  
