@@ -1,26 +1,45 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://dansedesilence.org/"
+languageCode = "fr-fr"
+title = "Danse de Silence"
 theme = "forty"
 
 [params]
   custom_css = ["css/custom.css"]
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true 
 [params.navigation]
-    title = "Danse de silence"
+    title = "Danse de Silence"
     subtitle = ""
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
 
     [[params.navigation.links]]
-      name = "accueil"
-      url = "#"
+      name = "FUCK SOMA : addiction"
+      url = "/travaux/fuck-soma-addiction"
     [[params.navigation.links]]
-      name = "créations"
-      url = "/produits"
+      name = "FUCK SOMA 2 : assimilation"
+      url = "/travaux/fuck-soma-2-assimilation"
     [[params.navigation.links]]
-      name = "occupations"
-      url = "/occupations"
-    
-      
+      name = "HAGIOSCOPE"
+      url = "/travaux/hagioscope"
+    [[params.navigation.links]]
+      name = "PERSONA"
+      url = "/travaux/persona"
+    [[params.navigation.links]]
+      name = "L’L RECHERCHE"
+      url = "https://www.llrecherche.be/mehdi-mojahid/"
+    [[params.navigation.links]]
+      name = "autoportrait"
+      url = "/info/autoportrait"
+    [[params.navigation.links]]
+      name = "2022"
+      url = "/info/2022"
+    [[params.navigation.links]]
+      name = "cours de danse"
+      url = "/info/cours-de-danse"
+    [[params.navigation.links]]
+      name = "contact"
+      url = "/info/contact"

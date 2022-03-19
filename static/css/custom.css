@@ -1,13 +1,33 @@
 body, html {
     height:100%;
     background-color:white;
+    text-align: center;
+    color: black;
     
 }
-
-section .major {
-    
+body.travaux {
+    background-color: black;
+    color: white;
 }
 
+body.travaux section#one  {
+    background-color: black;
+}
+
+strong, b {
+    color: inherit;
+}
+
+#menu .links {
+    color: white;
+}
+
+#main p {
+    font-family: 'Courier New', Courier, monospace;
+}
+#main h1{
+    color: black;
+}
 #banner.home-page:after {
     background-color:transparent;
 }
@@ -23,7 +43,7 @@ section .major {
 }
 
 #banner.home-page h1, #banner.home-page h1 strong {
-    font-size: 0.9em;
+    font-size: 1,1em;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: black;
 }
@@ -43,23 +63,13 @@ section .major {
     margin: 0;
 }
 
-#header a {
-    color:black
-}
-
 #header nav a:last-child {
     padding-right: 1.5em !important;
 }
 
-@media screen and (max-width: 1280px)
-#header nav a[href="#menu"]:last-child {
-    padding-right: 1.5em !important;
-}
 
-@media screen and (max-width: 1680px)
-#header nav a[href="#menu"]:last-child {
-    padding-right: 1.5em !important;
-}
+
+
 
 #header nav a[href="#menu"]:last-child {
     padding-right: 1.5em !important;
@@ -68,15 +78,7 @@ section .major {
     padding-right: 1.5em !important;
 }
 
-@media screen and (max-width: 1280px)
-#header nav a[href="#menu"] {
-    padding-right: 1.5em !important;
-}
 
-@media screen and (max-width: 1680px)
-#header nav a[href="#menu"] {
-    padding-right: 1.5em !important;
-}
 #header nav a[href="#menu"] {
     padding-right: 1.5em !important;
 }
@@ -89,3 +91,50 @@ section .major {
 #header nav a[href="#menu"]:after {
     background-image: none;
 }
+
+a:hover {
+    color: rgb(231, 146, 146) !important;
+}
+
+#menu .close:after{
+    background-image: none;
+}
+
+#header .logo:hover strong {
+    background-color: transparent;
+    color: rgb(231, 146, 146);
+}
+
+#menu {
+    background: rgba(0, 0, 0, 0.911);
+}
+
+img {
+    width : 500px;
+    height : 500px;
+    object-fit: none;
+    }
+#main.alt {
+    border-bottom:transparent
+}
+#header .logo strong {
+    background-color: inherit;
+    color: inherit;
+}
+/*
+a:link {
+    color: green !important;
+}
+
+a:visited {
+    color: pink !important;
+}
+
+a:hover {
+    color: red !important;
+}
+
+a:active {
+    color: yellow !important;
+}
+*/
