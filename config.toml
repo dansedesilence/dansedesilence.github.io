@@ -1,4 +1,4 @@
-baseURL = "https://dansedesilence.github.io/"
+baseURL = "https://www.dansedesilence.org/"
 languageCode = "fr-fr"
 title = "Danse de Silence"
 theme = "forty"
