@@ -10,7 +10,8 @@ draft: false
 *Mehdi Mojahid, Autoportrait au travail, 18 mars 2020*  
 
 Je suis un **artiste**  
-actif,  illégitime, non-diplômé, lettré, autodidacte, indépendant,  
-pluridisciplinaire, multi-identitaire, touche-à-tout.  
+actif,  illégitime, non-diplômé, lettré,  
+autodidacte, indépendant, pluridisciplinaire,  
+multi-identitaire, touche-à-tout.  
 
 *(curriculum vitæ disponible sur demande)*
