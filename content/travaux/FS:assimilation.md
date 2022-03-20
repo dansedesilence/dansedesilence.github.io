@@ -9,11 +9,11 @@ draft: false
 ---
  <iframe title="vimeo-player" src="https://player.vimeo.com/video/635297019?h=74bab19f78" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-autres liens :    
+**autres liens :**    
 [enregistrement vidéo de sortie de résidence (octobre 2021)](https://vimeo.com/635094011)  
 dossier de spectacle *(bientôt disponible)* 
 
-prochaine date :  
+**prochaine date :**  
 *mai 2022 @ Bruxelles*
 
 

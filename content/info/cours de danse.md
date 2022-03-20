@@ -7,8 +7,7 @@ keywords: "cours, danse, masterclass, workshop, artist, commons, chassart"
 date: 2022-03-19T12:00:00+01:00
 draft: false
 ---
-Les jeudi
-
+Les jeudi  
 @ studio Chassart
 *(Av. Van Volxem 400, 1190 Forest)*
  

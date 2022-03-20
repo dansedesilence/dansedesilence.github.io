@@ -10,9 +10,9 @@ draft: false
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/513411355?h=c9421e9bb7" width="640" height="360" frameborder="0" allowfullscreen></iframe>  
 
-autres liens :  
+**autres liens :**  
 [enregistrement vidéo de la performance complète (janvier 2021)](https://vimeo.com/513394587)  
 [dossier de spectacle](/FUCK-SOMA-july2021.pdf)
 
-prochaine date :  
+**prochaine date :**  
 *juin 2022 @Carcassonne*

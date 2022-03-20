@@ -7,6 +7,6 @@ keywords: "hagioscope, installation, vidéos, danse, cunst-link, authentique,"
 date: 2022-03-19T12:00:00+01:00
 draft: false
 ---
-autres liens :  
+**autres liens :**  
 bande-annonce *(bientôt disponible)*  
 [cartel d'exposition](/HAGIOSCOPE-A0-v4.pdf)
