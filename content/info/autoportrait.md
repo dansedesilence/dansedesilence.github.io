@@ -13,4 +13,4 @@ Je suis un **artiste**
 actif,  illégitime, non-diplômé, lettré, autodidacte, indépendant,  
 pluridisciplinaire, multi-identitaire, touche-à-tout.  
 
-*(curriculum vitæ uniquement sur demande)*
+*(curriculum vitæ disponible sur demande)*
