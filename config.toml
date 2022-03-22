@@ -35,8 +35,8 @@ theme = "forty"
       name = "autoportrait"
       url = "/info/autoportrait"
     [[params.navigation.links]]
-      name = "2022"
-      url = "/info/2022"
+      name = "actualité"
+      url = "/info/actualite"
     [[params.navigation.links]]
       name = "cours de danse"
       url = "/info/cours-de-danse"

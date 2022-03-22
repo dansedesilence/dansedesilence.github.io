@@ -1,12 +1,14 @@
 ---
-title: "2022"
+title: "Actualité"
 description: "Résidences et tournées de Danse de Silence"
-slug: "2022"
+slug: "actualite"
 image:
-keywords: "résidence, spectacle, recherche, L'L, Bruxelles, tournée"
+keywords: "actualité, résidence, spectacle, recherche, L'L, Bruxelles, tournée"
 date: 2022-03-19T12:00:00+01:00
 draft: false
 ---
+**2022**  
+
 **Janvier** – résidence *FUCK SOMA : assimilation* -  Bruxelles  
 Workshop #1 - Bruxelles
 
