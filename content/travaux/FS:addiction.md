@@ -12,7 +12,7 @@ draft: false
 
 **autres liens :**  
 [enregistrement vidéo de la performance complète (janvier 2021)](https://vimeo.com/513394587)  
-[dossier de spectacle](/FUCK-SOMA-july2021.pdf)
+[dossier de spectacle](/FUCKSOMA1-dossier.pdf)
 
 **prochaine date :**  
 *juin 2022 @Carcassonne*

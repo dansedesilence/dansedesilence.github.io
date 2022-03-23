@@ -14,10 +14,10 @@ Les jeudi
 
 
 ***Shift #1*** (*3 places libres*)  
-12h – 13h30
+13h – 14h30
 
 ***Shift #2*** (COMPLET)  
-14h – 16h30
+15h – 16h30
 
 **15 €** le cours  
 **8 €** pour les artistes, étudiants et précaires (possibilité de troc et échange de compétences)
