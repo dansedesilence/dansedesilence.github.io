@@ -11,8 +11,9 @@ draft: false
   
 
 Je suis un **artiste**  
-actif, non-diplômé, lettré,  
-autodidacte, indépendant, pluridisciplinaire,  
-illégitime, multi-identitaire, touche-à-tout.  
+actif, lettré, hétérodidacte,  
+indépendant, pluridisciplinaire,  
+illégitime, multi-identitaire,  
+touche-à-tout.
 
 *(curriculum vitæ disponible sur demande)*
