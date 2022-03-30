@@ -8,6 +8,6 @@ date: 2022-03-19T12:00:00+01:00
 draft: false
 ---
 **autres liens :**  
-[enregistrement vidéo de sortie de résidence (juillet 2021)](https://vimeo.com/615195846)  
+[enregistrement vidéo de sortie de résidence (septembre 2021)](https://vimeo.com/605598830)  
 [dossier de spectacle](/PERSONA-nov2021.pdf)
 
