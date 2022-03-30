@@ -15,4 +15,4 @@ draft: false
 [dossier de spectacle](/FUCKSOMA1-dossier.pdf)
 
 **prochaine date :**  
-*juin 2022 @Carcassonne*
+*septembre 2022 @Carcassonne*

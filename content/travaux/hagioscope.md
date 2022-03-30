@@ -9,4 +9,5 @@ draft: false
 ---
 **autres liens :**  
 bande-annonce *(bientôt disponible)*  
+[vidéo projetée dans l'installation](https://vimeo.com/693944194)  
 [cartel d'exposition](/HAGIOSCOPE-A0-v4.pdf)
