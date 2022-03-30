@@ -19,20 +19,21 @@ Workshop #2 - Bruxelles
 
 **Avril** – résidence de recherche L’L - Roubaix
 
-**Mai** – résidence *FUCK SOMA : assimilation* -  Bruxelles
+**Mai** – résidence *FUCK SOMA : assimilation* -  Bruxelles  
+sortie de résidence public *FUCK SOMA : assimilation* – Bruxelles
 
-**Juin** – reprise et représentation *FUCK SOMA : addiction* – Carcassonne
+**Juin** – Workshop #3 - Bruxelles
 
 **Juillet** – résidence de recherche L’L – Montréal
 
 **Août** – résidence *PERSONA*
 
 **Septembre** – résidence *FUCK SOMA : assimilation* – Bruxelles  
-sortie de résidence public *FUCK SOMA : assimilation* – Bruxelles
+sortie de résidence public *FUCK SOMA : assimilation* – Bruxelles  
+représentation *FUCK SOMA : addiction* - Carcassonne  
 
 **Octobre** – résidence de recherche L’L
 
 **Novembre** -  résidence *PERSONA*
 
 **Décembre** – résidence de recherche L’L
-</code>
