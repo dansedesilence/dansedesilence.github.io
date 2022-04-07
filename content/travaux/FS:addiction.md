@@ -14,5 +14,6 @@ draft: false
 [enregistrement vidéo de la performance (janvier 2021)](https://vimeo.com/513394587)  
 [avant-propos de la performance](/fucksoma1-avantpropos-site.pdf)
 
+
 **prochaine date :**  
 *septembre 2022 @Carcassonne*
