@@ -11,13 +11,10 @@ Les jeudi
 @ studio Chassart
 *(Av. Van Volxem 400, 1190 Forest)*
  
+/// Reprise dernière semaine de septembre ///
 
-
-***Shift #1*** (*3 places libres*)  
-13h – 14h30
-
-***Shift #2*** (COMPLET)  
-15h – 16h30
+Prochain workshop (deux demi-journée)  
+prévu première quinzaine d'octobre à Bruxelles
 
 **15 €** le cours  
 **8 €** pour les artistes, étudiants et précaires (possibilité de troc et échange de compétences)
