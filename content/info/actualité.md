@@ -26,7 +26,7 @@ sortie de résidence public *FUCK SOMA : assimilation* – Bruxelles
 
 **Juillet** – résidence de recherche L’L – Montréal
 
-**Août** – résidence *FUCK SOMA : assimpilation* - Espace Magh Bruxelles
+**Août** – résidence *FUCK SOMA : assimpilation* - Espace Magh
 
 **Septembre** – 
 sortie de résidence public *FUCK SOMA : assimilation* – Bruxelles  
