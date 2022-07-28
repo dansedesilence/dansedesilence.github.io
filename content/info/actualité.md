@@ -26,14 +26,16 @@ sortie de résidence public *FUCK SOMA : assimilation* – Bruxelles
 
 **Juillet** – résidence de recherche L’L – Montréal
 
-**Août** – résidence *PERSONA*
+**Août** – résidence *FUCK SOMA : assimpilation* - Espace Magh Bruxelles
 
-**Septembre** – résidence *FUCK SOMA : assimilation* – Bruxelles  
+**Septembre** – 
 sortie de résidence public *FUCK SOMA : assimilation* – Bruxelles  
 représentation *FUCK SOMA : addiction* - Carcassonne  
 
-**Octobre** – résidence de recherche L’L
+**Octobre** – Workshop - Bruxelles
 
-**Novembre** -  résidence *PERSONA*
+**Novembre** -  résidence de recherche L’L
 
-**Décembre** – résidence de recherche L’L
+**2023**  
+
+**Janvier** – représentation *FUCK SOMA : addiction* -  Toulouse 
