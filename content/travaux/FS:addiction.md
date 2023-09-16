@@ -16,4 +16,4 @@ draft: false
 
 
 **prochaine date :**  
-*septembre 2022 @Carcassonne*
+*[20h30 - 23 septembre 2023 @Théâtre de La Balsamine](https://balsamine.be/balsa_post/fete-de-la-communaute-francaise-de-belgique-2/) *
