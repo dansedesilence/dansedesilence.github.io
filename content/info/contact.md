@@ -12,10 +12,10 @@ draft: false
 dansedesilence(a)gmail.com  
 
 [<i class="fa-brands icon fa-instagram"></i>](https://www.instagram.com/mehdi.mjhd)  
-@mehdi.mjhd  
+<p><s>@mehdi.mjhd</p></s>
 
 [<i class="fa-brands icon fa-facebook"></i>](https://www.facebook.com/dansedesilence)  
-/dansedesilence  
+<p><s>/dansedesilence</p></s>
 
 [<i class="fa-brands icon fa-vimeo"></i>](https://vimeo.com/mehdimojahid)  
 /mehdimojahid

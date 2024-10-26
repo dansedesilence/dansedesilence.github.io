@@ -15,5 +15,12 @@ draft: false
 [avant-propos de la performance](/fucksoma1-avantpropos-site.pdf)
 
 
-**prochaine date :**  
-*[20h30 - 23 septembre 2023 @Théâtre de La Balsamine](https://balsamine.be/balsa_post/fete-de-la-communaute-francaise-de-belgique-2/) *
+**dates :**  
+*[23.09.23 @Théâtre de La Balsamine (BE)](https://balsamine.be/balsa_post/fete-de-la-communaute-francaise-de-belgique-2/)*  
+*[02.10.23 @Halles de Schaerbeek (BE)](https://www.halles.be/fr/ap/1288-fuck-soma)  
+*12.01.23 @Centre Culturel Alban Minville (FR)*  
+*09.10.21 @Studio Chassart (BE)*  
+*[26.09.21 @Festival Sueur (BE)](https://www.instagram.com/sueurfestival/p/CTzagdfAJ2s/)*  
+*24.09.21 @the Performance Bar (NL)*
+
+

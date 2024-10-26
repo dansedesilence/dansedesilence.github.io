@@ -7,35 +7,25 @@ keywords: "actualité, résidence, spectacle, recherche, L'L, Bruxelles, tourné
 date: 2022-03-19T12:00:00+01:00
 draft: false
 ---
-**2022**  
+**2024**  
 
-**Janvier** – résidence *FUCK SOMA : assimilation* -  Bruxelles  
-Workshop #1 - Bruxelles
+**Janvier** – résidence d'écriture @L'L
 
-**Février** – résidence de recherche L’L – Marseille 
+**Mars** – résidence ALI @La Monnaie 
 
-**Mars** – résidence *FUCK SOMA : assimilation* -  Bruxelles  
-Workshop #2 - Bruxelles
+**Avril** – résidence et création ALI @La Monnaie / KVS
 
-**Avril** – résidence de recherche L’L - Roubaix
+**Mai** – Brussels SITI Intensive workshop @KosmoCompany / Varia
 
-**Mai** – résidence *FUCK SOMA : assimilation* -  Bruxelles  
-sortie de résidence public *FUCK SOMA : assimilation* – Bruxelles
+**Juin** – résidence d'écriture @L'L
+regard extérieur "La Passion de Chaaaantal @Central La Louvière
 
-**Juin** – Workshop #3 - Bruxelles
+**Juillet** – résidence d'écriture @L'L
 
-**Juillet** – résidence de recherche L’L – Montréal
+**Août** – résidence d'écriture @L'L
+résidence de recherche PERSONA
 
-**Août** – résidence *FUCK SOMA : assimpilation* - Espace Magh
+**Septembre** – résidence d'écriture @L'L
+aménagement du nouveau studio d'Artist Commons
 
-**Septembre** – 
-sortie de résidence public *FUCK SOMA : assimilation* – Bruxelles  
-représentation *FUCK SOMA : addiction* - Carcassonne  
-
-**Octobre** – Workshop - Bruxelles
-
-**Novembre** -  résidence de recherche L’L
-
-**2023**  
-
-**Janvier** – représentation *FUCK SOMA : addiction* -  Toulouse 
+**October** – PERSONA
