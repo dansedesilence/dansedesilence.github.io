@@ -4,28 +4,40 @@ description: "Résidences et tournées de Danse de Silence"
 slug: "actualite"
 image:
 keywords: "actualité, résidence, spectacle, recherche, L'L, Bruxelles, tournée"
-date: 2022-03-19T12:00:00+01:00
+date: 2024-10-27T12:00:00+01:00
 draft: false
 ---
-**2024**  
+/**2024**/  
 
-**Janvier** – résidence d'écriture @L'L
+**Janvier**  
+recherche - résidence d'écriture - L'L
 
-**Mars** – résidence ALI @La Monnaie 
+**Mars**  
+interprète - résidence ALI - La Monnaie 
 
-**Avril** – résidence et création ALI @La Monnaie / KVS
+**Avril**  
+interprète - résidence et création ALI - La Monnaie & KVS
 
-**Mai** – Brussels SITI Intensive workshop @KosmoCompany / Varia
+**Mai**  
+formation - Brussels SITI Intensive workshop (KosmoCompany) - Varia
 
-**Juin** – résidence d'écriture @L'L
-regard extérieur "La Passion de Chaaaantal @Central La Louvière
+**Juin**  
+recherche - résidence d'écriture - L'L  
+regard extérieur - *La Passion de Chaaaantal* - Central La Louvière
 
-**Juillet** – résidence d'écriture @L'L
+**Juillet**  
+recherche - résidence d'écriture - L'L
 
-**Août** – résidence d'écriture @L'L
-résidence de recherche PERSONA
+**Août**  
+recherche - résidence d'écriture - L'L
+recherche - résidence PERSONA - Maxima
 
-**Septembre** – résidence d'écriture @L'L
+**Septembre**  
+recherche - résidence d'écriture - L'L
 aménagement du nouveau studio d'Artist Commons
 
-**October** – PERSONA
+**Octobre**  
+chorégraphe/interprète - FUCK SOMA : ASSIMILATION - Artist Commons Studio
+
+**Novembre**  
+recherche - résidence d'écriture / L'L

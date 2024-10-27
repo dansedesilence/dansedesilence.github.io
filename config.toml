@@ -32,8 +32,8 @@ theme = "forty"
       name = "L’L RECHERCHE"
       url = "https://www.llrecherche.be/mehdi-mojahid/"
     [[params.navigation.links]]
-      name = "autoportrait"
-      url = "/info/autoportrait"
+      name = "mehdi"
+      url = "/info/mehdi"
     [[params.navigation.links]]
       name = "actualité"
       url = "/info/actualite"
