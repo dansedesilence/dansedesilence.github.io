@@ -6,6 +6,8 @@ image:
 keywords: "cours, danse, masterclass, workshop, artist, commons, chassart"
 date: 2022-03-19T12:00:00+01:00
 draft: false
+text_color: white
+background_color: black
 ---
 Les jeudi  
 @ studio Chassart
