@@ -30,13 +30,13 @@ theme = "forty"
       url = "/travaux/persona"
     [[params.navigation.links]]
       name = "L’L RECHERCHE"
-      url = "https://www.llrecherche.be/mehdi-mojahid/"
+      url = "/travaux/llrecherche"
     [[params.navigation.links]]
       name = "mehdi"
       url = "/info/mehdi"
     [[params.navigation.links]]
-      name = "actualité"
-      url = "/info/actualite"
+      name = "calendrier"
+      url = "/info/calendrier"
     [[params.navigation.links]]
       name = "cours de danse"
       url = "/info/cours-de-danse"

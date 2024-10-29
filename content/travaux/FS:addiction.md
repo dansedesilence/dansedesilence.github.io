@@ -4,7 +4,7 @@ description: "Présensation du solo Fuck Soma : Addiction chorégraphié par Meh
 slug: "fuck-soma-addiction"
 image:
 keywords: "fuck, soma, addiction, spectacle, performance, carcassonne"
-date: 2024-10-26T12:00:00+01:00
+date: 2024-10-29T12:00:00+01:00
 draft: false
 ---
 
@@ -20,7 +20,7 @@ draft: false
 09.10.21 *— Studio Chassart (BE)*  
 26.09.21 *— [Festival Sueur (BE)](https://www.instagram.com/sueurfestival/p/CTzagdfAJ2s/)*  
 24.09.21 *— The Performance Bar (NL)*  
-03.06.21 *— Exquisite Mail 1.1 (online BE)*  
-09.06.20 *— [AC-TV (online BE)](https://www.facebook.com/ArtistCommonsBxl/videos/697150121120989)*
+03.06.21 *— Festival Exquisite Mail 1.1 (online)*  
+09.06.20 *— [AC-TV (online)](https://www.facebook.com/ArtistCommonsBxl/videos/697150121120989)*
 
 
