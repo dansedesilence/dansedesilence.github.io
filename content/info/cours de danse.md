@@ -9,4 +9,9 @@ draft: false
 text_color: white
 background_color: black
 ---
-[info](/danceclass_verso.pdf)
+*où* : 499 avenue Van Volxem // *quand* : tuesdays - 6:30-8:00PM  
+*pour qui* : artistes danseu.r.euse.s et autres artistes de scène  
+*combien* : 10/15eu // *langue* : français - anglais  
+
+[plus d'info](/danceclass-verso.pdf)  
+[visuel](/danceclass-recto.pdf)
